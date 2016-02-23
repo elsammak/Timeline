@@ -1,2 +1,2 @@
 # Timeline
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/elsammak/Timeline/blob/master/Timeline/Timeline/Timeline.png)
